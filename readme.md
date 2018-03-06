@@ -1,6 +1,6 @@
-# p5.js-es6-babel-sass-webpack-boilerplate
+# p5-string
 
-Boilerplate for writing p5.js sketches in es6 with babel, webpack and sass.
+ a tool instrument made of p5js.
 
 ## Usage
 
